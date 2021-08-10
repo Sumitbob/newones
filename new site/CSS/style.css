@@ -1,0 +1,115 @@
+body{
+  color:#40514E;
+  text-align: center;
+  background-color:#BCFFB9;
+  font-family: 'Merriweather',serif;
+
+}
+.p{
+  font-size: 20px;
+
+  font-weight:normal;
+}
+h1{font-size: 90px;
+  padding-top: 50px;
+  color: #66BFBF;
+
+  font-family: cursive;
+
+}
+h2{
+  color: #66BFBF;
+
+}
+.ol{
+  text-align: center;
+}
+.top-cloud{
+
+  position: absolute;
+  right:100px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top:250px;
+  left: 120px;
+}
+.first-cloud{
+  position: absolute;
+  top: 700px;
+  left: 70px;
+}
+.second-cloud{
+  position: absolute;
+  top:860px;
+  right:80px;
+}
+.third-cloud{
+  position: absolute;
+  top:1100px;
+  left:200px;
+}
+.fourth-cloud{
+  position: absolute;
+  top:1400px;
+  right:100px;
+}
+.education{
+  line-height: 2;
+}
+.skills{
+  line-height: 2;
+}
+.project{
+  line-height: 2;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+font-family: 'Merriweather',serif;
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.ref{
+  background-color: #66BFBF;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+a{
+  color: black;
+  margin: 10px 10px;
+  font-family: 'Merriweather',serif;
+  text-decoration: none;
+
+}
+a:hover{
+  color:#EAF6F6;
+}
+.copyright{
+  color:#EAF6F6;
+  padding-bottom: 5px;
+  padding-top: 20px;
+}
